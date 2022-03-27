@@ -1,0 +1,11 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+gevent
+Flask-Cors
+scikit-learn
+dnspython
+PyNaCl
